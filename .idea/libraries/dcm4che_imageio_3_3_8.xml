@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dcm4che-imageio-3.3.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/dcm4che-imageio-3.3.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
